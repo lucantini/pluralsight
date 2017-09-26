@@ -1,0 +1,1 @@
+A repo for all my PluralSight courses, so I can look back and/or use them later at other machines.
